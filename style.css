@@ -40,3 +40,86 @@
 }
 /* banner related style end */
 
+/* flower feature related style start*/
+/* main .feature-section{
+    margin-top: 130px;
+}
+.flower-feature{
+    text-align: center;
+}
+
+.flower-feature-title{
+    
+    font-family: lato;
+    font-size: 40px;
+    font-weight: bold;
+    color: #272727;
+    margin-bottom: 20px;
+}
+.flower-feature-description{
+   
+    font-family: lato;
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.60);
+}
+
+.feature-flower{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.feature-pic{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+ background: rgba(167, 33, 98, 0.15)
+}
+.feature-pic img{
+    width: 310px;
+   height: 428px;
+} */
+/* delivey and support section related style */
+.delivery-and-support-section{
+    margin: 130px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+.delivery-and-support{
+   text-align: center;
+    padding: 40px 60px;
+}
+/* Discount section related style */
+.discount-section{
+    margin-top: 130px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 150px 200px;
+}
+.discount-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.discount-title> span{
+    color: #E55473;
+}
+.discount-section> img{
+    width: 318px;
+    height: 420px;
+}
+.discount-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
