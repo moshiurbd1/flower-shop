@@ -66,22 +66,22 @@
 }
 
 .feature-section{
-    margin: 130px 130px 100px 130px;
+    margin: 100px 130px 100px 130px;
 }
 .feature{
-    height: 500px;
-    width: 400px;
+    height: 400px;
+    width: 300px;
     position: relative;
     background: rgba(167, 33, 98, 0.15);
     border-radius: 50% 50% 0 0;
 }
 .feature-section{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 25px;
 }
-.feature img{
-   
+.feature-section img{
+    width: 250px;
     position: absolute;
     bottom: 0;
     left: 35px;
@@ -146,7 +146,7 @@
 
 /* instagram section related style start*/
 .instagram-section{
-    margin: 130px 130px 0 130px;
+    margin: 130px;
 }
 .instagram-content{
     text-align: center;
@@ -170,8 +170,12 @@
  .instagram-image{
     display: flex;
     gap: 24px;
-    justify-content: space-around;
+    justify-content: space-between;
    
+ }
+ .instagram-image> img{
+    width: 250px;
+
  }
  /* instagram section related style end*/
 
