@@ -41,46 +41,62 @@
 /* banner related style end */
 
 /* flower feature related style start*/
-/* main .feature-section{
-    margin-top: 130px;
-}
-.flower-feature{
-    text-align: center;
-}
 
+.all-feature{
+    margin-top: 120px;
+}
+.feature-content{
+    text-align: center;
+
+}
 .flower-feature-title{
-    
-    font-family: lato;
-    font-size: 40px;
-    font-weight: bold;
     color: #272727;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+
 }
 .flower-feature-description{
-   
-    font-family: lato;
-    font-weight: 400;
-    font-size: 18px;
     color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
 }
 
-.feature-flower{
+.feature-section{
+    margin: 130px 130px 100px 130px;
+}
+.feature{
+    height: 500px;
+    width: 400px;
+    position: relative;
+    background: rgba(167, 33, 98, 0.15);
+    border-radius: 50% 50% 0 0;
+}
+.feature-section{
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-around;
+    gap: 25px;
+}
+.feature img{
+   
+    position: absolute;
+    bottom: 0;
+    left: 35px;
+    
     
 }
-.feature-pic{
-    width: 464px;
-    height: 538px;
-    border-radius: 300px 300px 0px 0px;
- background: rgba(167, 33, 98, 0.15)
+.feature-title{
+   text-align: center;
+   text-decoration: underline;
+   margin-top: 20px;
 }
-.feature-pic img{
-    width: 310px;
-   height: 428px;
-} */
-/* delivey and support section related style */
+
+/* flower feature related style end*/
+
+/* delivey and support section related style start*/
 .delivery-and-support-section{
     margin: 130px;
     display: flex;
@@ -92,7 +108,9 @@
    text-align: center;
     padding: 40px 60px;
 }
-/* Discount section related style */
+/* delivey and support section related style end */
+
+/* Discount section related style start*/
 .discount-section{
     margin-top: 130px;
     display: flex;
@@ -124,7 +142,9 @@
     font-weight: 400;
     margin-bottom: 30px;
 }
-/* instagram section related style */
+/* Discount section related style end*/
+
+/* instagram section related style start*/
 .instagram-section{
     margin: 130px 130px 0 130px;
 }
@@ -153,8 +173,9 @@
     justify-content: space-around;
    
  }
+ /* instagram section related style end*/
 
-/* Latest deal section related */
+/* Latest deal section related start */
 .latest-deal-section{
     align-items: center;
     text-align: center;
@@ -193,7 +214,9 @@
     border-radius: 10px;
 
 }
-/* Footer related style */
+/* Latest deal section related end */
+
+/* Footer related style start*/
 .footer-section{
     background: #111010;
     text-align: center;
@@ -226,3 +249,4 @@ font-size: 16px;
 font-weight: 400;
 
 }
+/* Footer related style end*/
