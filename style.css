@@ -19,7 +19,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 30px 30px 0 150px;
-    height: 850px;
+
 }
 .banner-title{
     font-family: lato;
@@ -66,7 +66,7 @@
     line-height: 30px;
 }
 
-.feature-section{
+.all-feature{
     margin: 100px 130px 100px 130px;
 }
 .feature{
