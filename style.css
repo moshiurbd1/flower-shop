@@ -80,6 +80,7 @@
     display: flex;
     justify-content: space-between;
     gap: 25px;
+    margin-top: 50px;
 }
 .feature-section img{
     width: 250px;
