@@ -222,6 +222,7 @@
     background: gray;
     text-align: center;
     padding: 20px;
+    border-radius: 10px;
     
 }
 
@@ -229,7 +230,7 @@
     display: block;
     font-size: 18px;
     padding: 18px 35px;
-    border-radius: 5px;
+    border-radius: 10px;
     width: 50%;
     border: .05 solid gray;
     background: rgb(255, 252, 252);
