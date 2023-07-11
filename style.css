@@ -122,4 +122,34 @@
     font-weight: 400;
     margin-bottom: 30px;
 }
+/* instagram section related style */
+.instagram-section{
+    margin: 130px 130px 0 130px;
+}
+.instagram-content{
+    text-align: center;
+}
+.instagram-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 25px;
 
+}
+.instagram-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+ .instagram-image{
+    display: flex;
+    gap: 24px;
+ }
+.instagram-image img{
+
+    width: 250px;
+}
